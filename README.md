@@ -72,3 +72,7 @@ There are three levels of testing contained in the project:
 The project comes with the auto-public repository configured. To setup the repository in your Maven settings, refer to:
 
     http://helpx.adobe.com/experience-manager/kb/SetUpTheAdobeMavenRepository.html
+
+## JCR Content Sync
+
+Using the [AEM Repo Tool](https://docs.adobe.com/content/help/en/experience-manager-65/developing/devtools/aem-repo-tool.html) JCR content can be sent to (i.e. push) or retrieved from (i.e. get) from your AEM localhost instance. This is helpful for saving template configurations and policies to git.  
